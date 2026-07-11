@@ -71,23 +71,6 @@ I'm **Md. Nahid Hossain Emon**, a passionate **Full Stack Developer** from **Ban
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nahid-emon&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nahid-emon/nahid-emon/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
 
 ---
 
