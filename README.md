@@ -32,14 +32,14 @@
 
 <br />
 
-### 👨‍💻 **About Me**
+### 👨‍💻 About Me
 
-I am a **Full Stack Developer** bridging the gap between enterprise-grade backends and intelligent frontend interfaces. Currently an intern at **Object Canvas Technology** and a CSE student at **Green University**, I focus on building systems that are not just functional, but intelligent.
+I am **Md. Nahid Hossain Emon**, a passionate **Full Stack Developer** from **Bangladesh**. I enjoy building modern, scalable, and user-friendly web applications while continuously learning new technologies.
 
-* 🔭 **Currently Working on:** `ProjectOrbit` (Enterprise .NET & SignalR Platform).
-* 🧠 **Core Focus:** Merging **Machine Learning** (ResNet, SmythOS) with modern web apps.
-* 🏆 **Highlight:** Top 9th National Finalist at SmythOS Hackathon 2025.
-* 📫 **Location:** Dhaka, Bangladesh.
+- 🔭 Currently working on personal and collaborative software projects.
+- 🌱 Learning advanced **ASP.NET Core**, **React**, and **Cloud Technologies**.
+- 💻 Interested in **Web Development**, **Backend Engineering**, and **AI Integration**.
+- 📍 Location: Bangladesh.
 
 ---
 
