@@ -19,15 +19,6 @@
 
   <br />
 
-  <a href="https://codeforces.com/profile/tasnim.bd.cse" target="_blank">
-    <img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces" />
-  </a>
-  <a href="https://www.hackerrank.com/@tasnimurrahman" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://www.hackerearth.com/@tasnimurrahmanshakir" target="_blank">
-    <img src="https://img.shields.io/badge/HackerEarth-2d343c?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" />
-  </a>
 </div>
 
 <br />
