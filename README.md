@@ -1,66 +1,125 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,238636,0d1117&height=250&section=header&text=Md.%20Nahid%20Hossain%20Emon&fontSize=40&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=65&descAlign=50&animation=fadeIn" alt="Header" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Open+Source+Enthusiast" alt="Typing SVG" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=18,14,30&text=Md.%20Nahid%20Hossain%20Emon&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=62&descSize=18&animation=fadeIn" alt="Header" />
+
+<br>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=💻+Full+Stack+Developer;🚀+Building+Modern+Web+Applications;⚡+Always+Learning+New+Technologies;🌱+Passionate+Software+Engineer;❤️+Open+Source+Enthusiast" alt="Typing SVG" />
+</a>
+
+<br><br>
+
+<a href="mailto:your.email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://your-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/yourusername">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/yourusername">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://codeforces.com/profile/yourusername">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+<a href="https://www.hackerrank.com/yourusername">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+
+<a href="https://www.hackerearth.com/@yourusername">
+  <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" />
+</a>
+
 </div>
-
-<div align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tasnim.bd.cse@gmail.com&su=New%20Inquiry" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://portfolio-flax-mu-1qyi9up3pi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=googlechrome&logoColor=61DAFB" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/tasnimurrahmanshakir/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <br />
-
-</div>
-
-<br />
-
-### 👨‍💻 About Me
-
-I am **Md. Nahid Hossain Emon**, a passionate **Full Stack Developer** from **Bangladesh**. I enjoy building modern, scalable, and user-friendly web applications while continuously learning new technologies.
-
-- 🔭 Currently working on personal and collaborative software projects.
-- 🌱 Learning advanced **ASP.NET Core**, **React**, and **Cloud Technologies**.
-- 💻 Interested in **Web Development**, **Backend Engineering**, and **AI Integration**.
-- 📍 Location: Bangladesh.
 
 ---
 
-### 🛠️ **Tech Stack & Arsenal**
+# 👨‍💻 About Me
+
+I'm **Md. Nahid Hossain Emon**, a passionate **Full Stack Developer** from **Bangladesh**.
+
+- 🔭 Currently working on modern web applications
+- 🌱 Learning **ASP.NET Core**, **React**, **Next.js**, and **Cloud Technologies**
+- 💡 Interested in AI Integration & Backend Engineering
+- ⚡ Love solving programming problems
+- 📍 Bangladesh
+
+---
+
+# 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,django,fastapi,react,nextjs,postgres,mysql,git,vscode,c,cpp,java,html,css,tailwind&perline=9&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,py,django,fastapi,react,nextjs,nodejs,postgres,mysql,mongodb,git,github,vscode,c,cpp,java,html,css,tailwind,bootstrap&perline=7&theme=dark" />
+
 </div>
 
 ---
 
-### 🚀 **Featured Engineering**
+# 🚀 Featured Projects
 
-| **Project** | **Description** | **Stack** |
-|:---:|:---|:---:|
-| **ProjectOrbit** | 🏢 **Enterprise Management System**<br>Real-time collaboration platform handling task tracking and live chat for concurrent users. | `.NET Core` `SignalR` `Next.js` `PostgreSQL` |
-| **medScan** | 🫀 **AI Disease Prediction**<br>ResNet-18 powered system for detecting heart disease from Chest X-rays with visualization. | `Django` `FastAPI` `PyTorch` `React` |
-| **CareerBoost AI** | 🤖 **AI Interview Coach**<br>Hackathon-winning platform for mock interviews and ATS resume scoring. | `SmythOS` `Express` `MongoDB` `React` |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Project 1** | Modern Full Stack Web Application | ASP.NET Core, React, SQL Server |
+| **Project 2** | AI Powered Application | Python, FastAPI, React |
+| **Project 3** | Portfolio Website | Next.js, Tailwind CSS |
 
 ---
 
-
-
-### 📊 **GitHub Analytics**
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TasnimurRahmanShakir&theme=blueberry-duo" alt="GitHub Streak" /></a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
+<br><br>
 
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6"/>
 
 </div>
