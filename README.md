@@ -44,7 +44,7 @@ I'm **Md. Nahid Hossain Emon**, a passionate **Full Stack Developer** from **Ban
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,py,django,fastapi,react,nextjs,nodejs,postgres,mysql,mongodb,git,github,vscode,c,cpp,java,html,css,tailwind,bootstrap&perline=7&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,nodejs,mysql,git,github,vscode,c,java,html,css,bootstrap&perline=7&theme=dark" />
 
 </div>
 
