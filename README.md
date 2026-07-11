@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,238636,0d1117&height=250&section=header&text=Md.%20Tasnimur%20Rahman%20Shakir&fontSize=40&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20AI%20Integrator%20%7C%20.NET%20Core&descAlignY=65&descAlign=50&animation=fadeIn" alt="Header" />
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,238636,0d1117&height=250&section=header&text=Md.%20Nahid%20Hossain%20Emon&fontSize=40&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=65&descAlign=50&animation=fadeIn" alt="Header" />
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Creating+Scalable+.NET+Solutions;Designing+Smooth+User+Experiences;Integrating+AI+Models;Top+9th+HackTheAI+Hackathon+Finalist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
