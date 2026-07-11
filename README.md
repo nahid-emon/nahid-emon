@@ -10,35 +10,19 @@
 
 <br><br>
 
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:nahid.oct@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://your-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://linkedin.com/in/nahid-emon-a5b148417">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/nahid-emon">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
-
-<a href="https://codeforces.com/profile/yourusername">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-
-<a href="https://www.hackerrank.com/yourusername">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
-<a href="https://www.hackerearth.com/@yourusername">
-  <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" />
-</a>
 
 </div>
 
@@ -66,31 +50,22 @@ I'm **Md. Nahid Hossain Emon**, a passionate **Full Stack Developer** from **Ban
 
 ---
 
-# 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Project 1** | Modern Full Stack Web Application | ASP.NET Core, React, SQL Server |
-| **Project 2** | AI Powered Application | Python, FastAPI, React |
-| **Project 3** | Portfolio Website | Next.js, Tailwind CSS |
-
----
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nahid-emon&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahid-emon&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=nahid-emon&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nahid-emon&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -100,7 +75,7 @@ I'm **Md. Nahid Hossain Emon**, a passionate **Full Stack Developer** from **Ban
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nahid-emon&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -110,7 +85,7 @@ I'm **Md. Nahid Hossain Emon**, a passionate **Full Stack Developer** from **Ban
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/nahid-emon/nahid-emon/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -120,6 +95,6 @@ I'm **Md. Nahid Hossain Emon**, a passionate **Full Stack Developer** from **Ban
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=nahid-emon&style=for-the-badge&color=0e75b6"/>
 
 </div>
